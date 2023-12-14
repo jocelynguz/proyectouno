@@ -1,0 +1,25 @@
+body{
+    background-color: #ebe7a7;
+
+}
+h1{
+    color: #ba3259;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    color: #78b395;
+}
+/*selector de clase .*/
+.genero {
+    color: black;
+}
+/*uasar un id .*/
+#imagenlisa{
+    /*uasar un id .*/
+    border-radius:  100px;
+    width: 200;
+    border: dotted;
+    color: #78b395;
+}
